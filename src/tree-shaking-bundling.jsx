@@ -1,0 +1,1 @@
+This is a Tradly Layers JSX snippet generator. You can describe the UI or content you want, and I will create JSX code that follows Tradly's Sky visual editor rules. This code can be used to build or modify your app's interface visually and programmatically. If you want, you can tell me what UI or layout you want, and I will generate the JSX for you.
