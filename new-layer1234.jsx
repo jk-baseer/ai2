@@ -3,7 +3,7 @@
   <form class="bg-white shadow rounded-lg p-6 space-y-5">
     <div>
       <label class="block text-gray-700 font-medium mb-2" for="layer-name">
-        Layer Name
+        Layer Name updated with Github Integration
       </label>
       <input
         id="layer-name"
